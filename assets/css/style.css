@@ -46,7 +46,8 @@ p {
 }
 
 #jumbotron {
-  left: -51px;
+  left: -1px;
+  transform: rotateY(180deg)
   
    
 }
